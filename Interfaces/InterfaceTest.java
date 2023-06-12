@@ -1,4 +1,4 @@
-class InterfaceExample {
+class InterfaceTest {
   public static void main(String[] args) {
     // Create order and add drinks
     DrinkOrder toGoOrder = new DrinkOrder();
