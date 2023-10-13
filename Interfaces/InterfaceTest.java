@@ -20,5 +20,7 @@ class InterfaceTest {
     System.out.println("\nOrder Total: " + 
         // Note how Beverage.PriceFormat can be used here, too
         Beverage.PriceFormat.format(toGoOrder.getTotalPrice()));
+
+        Beverage.PriceFormat()
     }
 }  
